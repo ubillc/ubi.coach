@@ -2,4 +2,4 @@
 
 This app is under construction.
 
-Please see our PRivacy Policy [here:]<https://github.com/ubillc/ubi.coach/blob/master/App-Privacy-Policy.pdf>
+Please see our Privacy Policy here: <https://github.com/ubillc/ubi.coach/blob/master/App-Privacy-Policy.pdf>
